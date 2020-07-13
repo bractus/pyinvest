@@ -1,2 +1,3 @@
-# pyinvest
+# pyInvest
+
 Stock market predictions
